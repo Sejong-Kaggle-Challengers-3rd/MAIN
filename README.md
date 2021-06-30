@@ -18,4 +18,4 @@
 | 구은선 |[Repository](https://github.com/Sejong-Kaggle-Challengers-3rd)|
 | 김재하 |[Repository](https://github.com/Sejong-Kaggle-Challengers-3rd/JaehaKim)|
 | 심정윤 |[Repository](https://github.com/Sejong-Kaggle-Challengers-3rd)|
-| 함유진 |[Repository](https://github.com/Sejong-Kaggle-Challengers-3rd)|
+| 함유진 |[Repository](https://github.com/Sejong-Kaggle-Challengers-3rd/YujinHam)|
