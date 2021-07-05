@@ -17,5 +17,5 @@
 | :--------: | :--------: |
 | 구은선 |[Repository](https://github.com/Sejong-Kaggle-Challengers-3rd/EunseonGu)|
 | 김재하 |[Repository](https://github.com/Sejong-Kaggle-Challengers-3rd/JaehaKim)|
-| 심정윤 |[Repository](https://github.com/Sejong-Kaggle-Challengers-3rd)|
+| 심정윤 |[Repository](https://github.com/Sejong-Kaggle-Challengers-3rd/JeongYoon_Shim)|
 | 함유진 |[Repository](https://github.com/Sejong-Kaggle-Challengers-3rd/YujinHam)|
