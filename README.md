@@ -10,7 +10,11 @@
 | [5] |2021.07.26 ~ 2021.08.02| [주차수요 예측 AI 경진대회](https://dacon.io/competitions/official/235745/overview/description) | 자유공부(코드 구현, 수상자 코드 분석 등) |
 | [6] |2021.08.02 ~ 2021.08.09| [KCB 금융스타일 시각화](https://dacon.io/competitions/official/82407/overview/) | 자유공부(코드 구현, 수상자 코드 분석 등) |
 | [7] |2021.08.09 ~ 2021.08.16| [퇴근시간 버스승차인원 예측](https://dacon.io/competitions/official/229255/overview/)  | 자유공부(코드 구현, 수상자 코드 분석 등) |
-| [8] |2021.08.16 ~ 2021.08.23| [컴퓨터 비전 학습 경진대회](https://dacon.io/competitions/official/235626/overview/description/)  | 자유공부(코드 구현, 수상자 코드 분석 등) |
+| [8] |2021.08.16 ~ 2021.08.23| [컴퓨터 비전 학습 경진대회](https://dacon.io/competitions/official/235626/overview/description/)  | 자유공부(코드 구현, 수상자 코드 분석 등)
+| [9,10] |2021.08.23 ~ 2021.09.06| [소설 작가 분류 AI 경진대회](https://dacon.io/competitions/official/235670/overview/description) | 자유공부(코드 구현, 수상자 코드 분석 등)|
+| [11] |2021.09.06 ~ 2021.09.13|  [구내식당 식수 인원 예측 AI 경진대회](https://dacon.io/competitions/official/235743/overview/description)| 자유공부(코드 구현, 수상자 코드 분석 등) |
+| [12] |2021.09.13 ~ 2021.09.20| [버스 운행시간 예측 경진대회](https://dacon.io/competitions/official/229611/overview/description)|자유공부(코드 구현, 수상자 코드 분석 등) |
+| | 이후 1기/2기와 통합하여 오프라인 진행 
 
 ## 📌 진행 방식 
 1. 1기/2기의 깃허브 문제 순서 따라가며 진행( 1주에 1~2문제 풀이 목표)
