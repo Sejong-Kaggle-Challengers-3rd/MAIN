@@ -22,6 +22,7 @@
 3. 완성된 부분까지 팀원들과 공유
 4. 수상자 코드 분석해온 내용 발표
 5. 진행 속도에 따라 문제 개수 조정
+6. [매주 후기 작성](https://docs.google.com/spreadsheets/d/1xXbG5tOOm6tGwHQXAkojRxFHa1__ZYtOxmnVPXxlF0c/edit#gid=137396511)
 ※서로 진행 상황 자유롭게 공유하기!!
 
 ## 📌 팀원 개인 Repository
